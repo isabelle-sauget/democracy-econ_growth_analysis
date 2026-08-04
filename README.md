@@ -35,3 +35,12 @@ The multivariate statistical analysis yielded several critical insights into the
 ## How to Run the Code
 
 The Google Colab links are included in each of the Python files and the code can be run from there. After running the Python files, the .R files should be run on RStudio (recent version) and the working directory should be changed inside the setwd() command.
+
+## Citations for the database:
+
+Coppedge, Michael, John Gerring, Carl Henrik Knutsen, Staffan I. Lindberg, Jan Teorell, David Altman, Fabio Angiolillo, Michael Bernhard, Agnes Cornell, M. Steven Fish, Linnea Fox, Lisa Gastaldi, Haakon Gjerløw, Adam Glynn, Ana Good God, Sandra Grahn, Allen Hicken, Katrin Kinzelbach, Joshua Krusell, Kyle L. Marquardt, Kelly McMann, Valeriya Mechkova, Juraj Medzihorsky, Natalia Natsika, Anja Neundorf, Pamela Paxton, Daniel Pemstein, Johannes von R¨omer, Brigitte Seim, Rachel Sigman, Svend-Erik Skaaning, Jeffrey Staton, Aksel Sundstr¨om, Marcus Tannenberg, Eitan Tzelgov, Yi-ting Wang, Felix Wiebrecht, Tore Wig, Steven Wilson and Daniel Ziblatt. 2025. ”V-Dem [Country-Year/Country-Date] Dataset v15” Varieties of Democracy (V-Dem) Project. https://doi.org/10.23696/vdemds25. 
+Pemstein, Daniel, Kyle L. Marquardt, Eitan Tzelgov, Yi-ting Wang, Juraj Medzihorsky, Joshua Krusell, Farhad Miri, and Johannes von R¨omer. 2025. “The V-Dem Measurement Model: Latent Variable Analysis for Cross-National and Cross-Temporal Expert-Coded Data”. V-Dem Working Paper No. 21. 10th edition. University of Gothenburg: Varieties of Democracy Institute.
+
+World Bank. (2025). GDP, PPP (constant 2021 international $). World Bank Open Data. https://data.worldbank.org/indicator/NY.GDP.MKTP.PP.KD
+
+
