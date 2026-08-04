@@ -4,6 +4,8 @@ This repository contains the complete analytical workflow and codebase for my Li
 
 In an era marked by a global wave of autocratization and severe political polarization, this project pushes past anti-democratic rhetoric. By analyzing a comprehensive 2024 dataset of **160 countries across 30 democratic indicators**, the research explores the latent dimensions of democracy, clusters nations based on political realities rather than formal constitutional labels, and maps these regime types directly to national income categories.
 
+The database used is the V-Dem (Varieties of Democracy Institute of University of Gothenburg, Sweden) Project 2025 V15 of democratic indicators. For measuring economic development I have used GDP per capita from the World Bank database at Purchasing Power Parity using the 2021 price benchmark in international dollars to account for inflation and exchange rate fluctuations.
+
 ## Repository Structure and Tech Stack
 
 The analysis is divided into two main technical pipelines, leveraging the strengths of both Python and R:
@@ -32,3 +34,4 @@ The multivariate statistical analysis yielded several critical insights into the
 
 ## How to Run the Code
 
+The Google Colab links are included in each of the Python files and the code can be run from there. After running the Python files, the .R files should be run on RStudio (recent version) and the working directory should be changed inside the setwd() command.
